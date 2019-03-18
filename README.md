@@ -1,6 +1,6 @@
-# A React Boilerplate with Bootstrap 4 + Font-Awesome
+# File-Uploads powered by FilePond and React
 
-![webshot](./webshot.png)
+![webshot](./webshot1.png)
 
 This is a minimal react boilerplate powered by [React Scripts](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md) configured with:
 
