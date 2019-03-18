@@ -28,5 +28,9 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "filepond": "^4.2.0",
+    "filepond-plugin-image-preview": "^4.0.3",
+    "react-filepond": "^7.0.1"
+  }
 }
