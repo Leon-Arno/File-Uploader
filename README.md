@@ -1,6 +1,6 @@
 # File-Uploads powered by FilePond and React
 
-![webshot](./webshot1.png)
+![webshot](./webshot.png)
 
 This is a minimal react boilerplate powered by [React Scripts](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md) configured with:
 
