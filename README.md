@@ -1,4 +1,4 @@
-# Learning Javascript Series: File-Uploads powered by FilePond and React
+# Learning JavaScript Series: File-Uploads powered by FilePond and React
 
 ![webshot](./webshot.png)
 
